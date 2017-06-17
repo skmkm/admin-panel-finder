@@ -13,7 +13,7 @@ logo = '''
    ______          __        
   / __/ /__ __ _  / /__ __ _    
  _\ \/  '_//  ' \/  '_//  ' \  Title  : admin panel finder
-/___/_/\_\/_/_/_/_/\_\/_/_/_/  Author : Skmkm - EBF hackers
+/___/_/\_\/_/_/_/_/\_\/_/_/_/  Author : Skmkm - Syberia hackers
 			       							
 
 '''
